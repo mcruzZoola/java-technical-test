@@ -1,8 +1,8 @@
 # Compiled class file
 *.class
-.gradle/
-.idea/
-build/
+/.gradle/
+/.idea/
+/build/
 .DS_Store
 
 # Log file
